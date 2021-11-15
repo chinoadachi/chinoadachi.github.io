@@ -1,0 +1,28 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background-color: black;
+    /* background: url(img\5557995.jpg); */
+}
+h1 {
+    font-family:'Montserrat', sans-serif; color: lightgrey; transition: 0.3s; text-align: center;
+    margin: 20px;
+}
+h1:hover {
+    transform: scale(1.05); color: white;
+}
+header ul {
+    font-size: x-large; font-family: 'Montserrat', sans-serif;
+}
+
+header div div nav {
+    margin: 20px;
+}
+
+.picSize {
+    width: 300px; 
+    margin: 20px;
+    border-radius: 50%;
+}
+
